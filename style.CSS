@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+.title{
+   font-family: 'Courier New', Courier, monospace;
+   font-style: ;
+}
+
+
+.text{
+   font-family: 'Courier New', Courier, monospace;
+   color: blue;
+   font-style: italic;
+   font-weight: 100;
+}
+
+.texto{
+   font-family: 'Courier New', Courier, monospace;
+   font-style: italic;
+}
+
+.tex{
+   font-family: 'Courier New', Courier, monospace;
+   font-style: italic;
+   color: brown;
+   
+}
